@@ -1,2 +1,2 @@
 # ExampleRepo
-Here is some description about my program
+Runner game made in Python
